@@ -1,0 +1,20 @@
+{
+    "registrationUrl": "http://www.way2automation.com/angularjs-protractor/registeration/#/login",
+    "homeUrl": "http://www.way2automation.com/angularjs-protractor/registeration/#/",
+    "loggedInPageTitle": "Home",
+    "loggedInPageMessage": "You're logged in!!",
+    "emptyUserOrPasswordMessage": "You did not enter a username",
+    "tooShortUserMessage": "Your username must be between 3 and 50 characters long",
+    "tooShortPasswordMessage": "Your username must be between 3 and 100 characters long",
+    "usernameDescription": "username description",
+    "wrongUserOrAndPasswordMessage":"Username or password is incorrect",
+    "empty": "",
+    "validUsername": "Bo$$",
+    "validUser": "UsSERrr",
+    "validPassword": "pASSword time",
+    "1Character": "z",
+    "50Characters": "aaaaa00000bbbbb22222ccccc55555ggggg88888pppppkkkkk",
+    "51Characters": "aaaaa00000bbbbb22222ccccc55555ggggg88888pppppkkkkkA",
+    "100Characters": "aaaaa00000bbbbb22222ccccc55555ggggg88888pppppkkkkkaaaaa00000bbbbb22222ccccc55555ggggg88888pppppkkkkk",
+    "101Characters": "aaaaa00000bbbbb22222ccccc55555ggggg88888pppppkkkkkaaaaa00000bbbbb22222ccccc55555ggggg88888pppppkkkkkB"
+}
